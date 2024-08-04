@@ -12,7 +12,7 @@ This PHP extension provides functionality similar to Java's `@VisibleForTesting`
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/visible-for-testing-php.git
+   git clone https://github.com/nagaihiroki-git/visible-for-testing-php.git
    cd visible-for-testing-php
    ```
 
