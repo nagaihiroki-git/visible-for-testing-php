@@ -1,0 +1,5 @@
+ARG_ENABLE('visible_for_testing', 'enable visible_for_testing support', 'no');
+
+if (PHP_VISIBLE_FOR_TESTING != 'no') {
+    EXTENSION('visible_for_testing', 'src/visible_for_testing.c');
+}
